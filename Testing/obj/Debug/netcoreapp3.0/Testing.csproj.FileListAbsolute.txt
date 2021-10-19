@@ -1,0 +1,12 @@
+C:\Users\ciwe9\source\repos\Testing\Testing\bin\Debug\netcoreapp3.0\Testing.deps.json
+C:\Users\ciwe9\source\repos\Testing\Testing\bin\Debug\netcoreapp3.0\Testing.dll
+C:\Users\ciwe9\source\repos\Testing\Testing\obj\Debug\netcoreapp3.0\Testing.csprojAssemblyReference.cache
+C:\Users\ciwe9\source\repos\Testing\Testing\obj\Debug\netcoreapp3.0\Testing.AssemblyInfoInputs.cache
+C:\Users\ciwe9\source\repos\Testing\Testing\obj\Debug\netcoreapp3.0\Testing.AssemblyInfo.cs
+C:\Users\ciwe9\source\repos\Testing\Testing\bin\Debug\netcoreapp3.0\Testing.pdb
+C:\Users\ciwe9\source\repos\Testing\Testing\obj\Debug\netcoreapp3.0\Testing.dll
+C:\Users\ciwe9\source\repos\Testing\Testing\obj\Debug\netcoreapp3.0\Testing.pdb
+C:\Users\ciwe9\source\repos\Testing\Testing\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ciwe9\source\repos\Testing\Testing\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ciwe9\source\repos\Testing\Testing\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ciwe9\source\repos\Testing\Testing\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.AdapterUtilities.dll
