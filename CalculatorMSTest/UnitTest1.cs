@@ -26,6 +26,16 @@ namespace CalculatorMSTest
         }
 
         [TestMethod]
+        public void Add_SubtractOfTwoArguments_ShouldReturnCorrectResult()
+        {
+            //Act
+            var result = calculator.Subtract(a: 1, b: 2);
+
+            //Assert
+            Assert.AreEqual(-1, result);
+        }
+
+        [TestMethod]
         public void CompareValuesAndReturnGreater_FirstArgumentIsGreater_ShouldReturnFirstArgument()
         { 
             //Act
