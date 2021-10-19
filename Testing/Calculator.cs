@@ -16,5 +16,10 @@ namespace Testing
             else
                 return b;
         }
+
+        public int Multiply(int a, int b)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

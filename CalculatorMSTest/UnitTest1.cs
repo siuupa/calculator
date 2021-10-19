@@ -54,5 +54,16 @@ namespace CalculatorMSTest
             //Assert
             Assert.AreEqual(2, result);
         }
+
+        [TestMethod]
+        public void Multiply_TwoArgumentsAreMultiplied_ShouldReturnMultipliedNumber()
+        {
+            //Act
+            var result = calculator.Multiply(a: 5, b: 2);
+
+            //Assert
+            Assert.AreEqual(10, result);
+        }
+
     }
 }
